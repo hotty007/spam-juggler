@@ -34,9 +34,8 @@ Spam-Juggler offers an API (Application Programming Interface), available
 for JavaScript. All you need is to know something about JavaScript and
 this API, and indeed a web page where you will run it.
 
-See example at *:
+See example at:
 http://hot.as/spam-juggler/api?/example.html
-* this is really nasty coding... but, it works... ;)
 
 See source code and examples at:
 http://hot.as/spam-juggler/api?/view.html
