@@ -11,10 +11,10 @@ emails as before? Would not it be the easiest an alternative email address
 will be given to spammers, and have it work as a spam blocker by shutting off
 automatically after a specific time period or a specific amount of received
 emails over this alternative email address? That is exactly what Spam-Juggler
-offers! There is no need to download and install any software on your computer
-- you will have access to this service from all over the world through your
-browser, and you do not need to register an account to use this service. This
-is what makes Spam-Juggler one of the best and most convenient and effective
+offers! There is no need to download and install any software on your
+computer - you will have access to this service from all over the world through
+your browser, and you do not need to register an account to use this service.
+This is what makes Spam-Juggler one of the best and most convenient and effective
 anti-spam tools available.
 
 Spam-Juggler allows you to create so called "forwarding" or "alias" email
